@@ -1,7 +1,1 @@
-﻿  bj10171.cpp
-  bj10718.cpp
-  bj2557.cpp
-  코드를 생성하고 있습니다...
-bj10718.obj : error LNK2005: _main이(가) bj10171.obj에 이미 정의되어 있습니다.
-bj2557.obj : error LNK2005: _main이(가) bj10171.obj에 이미 정의되어 있습니다.
-C:\Users\user\Desktop\GitHub\BeakjoonTest\Debug\BeakjoonTest.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
+﻿  bj10172.cpp
