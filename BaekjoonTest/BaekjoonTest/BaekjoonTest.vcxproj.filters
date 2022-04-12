@@ -15,28 +15,31 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\새 폴더\bj1000.cpp">
+    <ClCompile Include="bj0000.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\새 폴더\bj1001.cpp">
+    <ClCompile Include="bj1000.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\새 폴더\bj1008.cpp">
+    <ClCompile Include="bj1001.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\새 폴더\bj2557.cpp">
+    <ClCompile Include="bj1008.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\새 폴더\bj10171.cpp">
+    <ClCompile Include="bj2557.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\새 폴더\bj10172.cpp">
+    <ClCompile Include="bj10171.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\새 폴더\bj10718.cpp">
+    <ClCompile Include="bj10172.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\새 폴더\bj10998.cpp">
+    <ClCompile Include="bj10718.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bj10998.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
